@@ -1,7 +1,7 @@
 import React from 'react';
 import Navigation from '../components/Navigation';
 import Typed from 'react-typed';
-import resume from '../media/Aata-allah_resume.pdf';
+import resume from '../media/Aata-allah_Rchidi_resume.pdf';
 
 
 const Home = () => {
