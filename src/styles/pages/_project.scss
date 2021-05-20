@@ -5,8 +5,8 @@
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: 50px 1fr;
-    grid-template-areas: 
-      "1" "2";
+    grid-template-areas:
+      "1""2";
   }
 
 
@@ -31,12 +31,12 @@
       z-index: 2;
       @include verticalCenter;
 
-      input[type="radio"]{
+      input[type="radio"] {
         visibility: hidden;
         position: relative;
-        
+
         &::before {
-          content:'';
+          content: '';
           visibility: visible;
           position: absolute;
           top: -4px;
@@ -48,12 +48,13 @@
           cursor: pointer;
           transition: 0.3s;
         }
+
         &::after {
-          content:'';
+          content: '';
           visibility: visible;
           position: absolute;
           top: -4px;
-          left: -12px; 
+          left: -12px;
           height: .9rem;
           width: .9rem;
           border-radius: 50%;
@@ -64,14 +65,17 @@
           transform-origin: center;
         }
       }
+
       input:checked::after {
         transform: scale(1.17) translate(-25%, -25%);
         top: 2px;
         left: -6px;
       }
-      input:checked + label {
+
+      input:checked+label {
         color: $color-4;
       }
+
       label {
         cursor: pointer;
       }
@@ -79,7 +83,7 @@
   }
 
   .projectsList {
-    height: 88.5vh;//aata
+    height: 88.5vh; //aata
     grid-area: 2;
     display: flex;
     flex-wrap: wrap;
@@ -102,8 +106,8 @@
       box-shadow: $shadow;
       display: grid;
       grid-template-rows: 15% 20% 55%;
-      grid-template-areas: 
-        "1" "2" "3";
+      grid-template-areas:
+        "1""2""3";
 
       //card
       .card {
@@ -111,10 +115,10 @@
         transform-style: preserve-3d;
 
         &:hover {
-          transform: rotate3d(1, 0, 0, -180deg); 
+          transform: rotate3d(1, 0, 0, -180deg);
         }
 
-        &__face{
+        &__face {
           -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
           position: absolute;
@@ -130,7 +134,8 @@
             background: $color-1;
             padding: 2rem;
             box-shadow: 0 2px 6px #333;
-            
+            width: 100%;
+
             .head {
               display: flex;
               justify-content: space-around;
@@ -143,7 +148,7 @@
                 border-radius: $borderRadius;
                 padding: .5rem;
                 transition: .2s;
-        
+
                 &:hover {
                   background: $color-4;
                 }
@@ -156,7 +161,7 @@
             }
           }
         }
-      } 
+      }
     }
 
     .icons {
@@ -171,7 +176,8 @@
         color: $color-5;
         text-shadow: 0 0px 1px $color-1;
       }
-    } 
+    }
+
     h3 {
       grid-area: 2;
       font-family: $font-2;
@@ -179,7 +185,7 @@
       @include verticalCenter;
       justify-content: left;
     }
-    
+
     img {
       grid-area: 3;
       object-fit: fill;
@@ -195,7 +201,7 @@
 }
 
 
-@media (max-width: 650px) and (min-width: 521px){
+@media (max-width: 650px) and (min-width: 521px) {
   .projectContent {
     .projects {
       width: 49% !important;
@@ -206,10 +212,12 @@
     }
   }
 }
-@media (max-width: 520px){
+
+@media (max-width: 520px) {
   .radioDisplay {
     display: none !important;
   }
+
   .projectContent {
     grid-template-rows: 1fr !important;
 
@@ -221,10 +229,11 @@
         height: 100% !important;
       }
 
-      .demoCode, .sourceCode {
-        display: flex;
-        padding: .2rem;
-      }
+      // .demoCode,
+      // .sourceCode {
+      //   display: flex;
+      //   padding: .2rem;
+      // }
     }
   }
 }

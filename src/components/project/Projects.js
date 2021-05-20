@@ -45,7 +45,6 @@ const Projects = (props) => {
               </a>
             </div>
           </div>
-          <div className="text">{props.items.info}</div>
         </div>
       </div>
     </div>
