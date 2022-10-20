@@ -7,7 +7,6 @@ const Languages = () => {
   let languages = [
     {id:1, value: "JavaScript", exp:2.9},
     {id:1, value: "TypeScript", exp:1},
-    {id:2, value: "Java", exp:1.5},
     {id:2, value: "HTML5", exp:2.5},
     {id:4, value: "Css", exp:2.8}
   ];
@@ -16,7 +15,6 @@ const Languages = () => {
     {id:2, value: "Angular", exp:1},
     {id:2, value: "Bootstrap", exp:2},
     {id:5, value: "Git", exp:2.8},
-    {id:5, value: "WCAG", exp:1}
   ];
 
 
