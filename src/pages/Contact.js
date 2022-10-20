@@ -26,7 +26,7 @@ const Contact = () => {
                     <ul>
                         <li>
                             <i className="fas fa-map-marker-alt"></i>
-                            <span>Toronto</span>
+                            <span>Ottawa</span>
                         </li>
 
                         <li>
