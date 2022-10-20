@@ -60,7 +60,12 @@
             width: 44%;
           }
 
-          &:nth-child(2)::before, &:nth-child(3)::before {
+          &:nth-child(4) {
+            text-align: right;
+            width: 44%;
+          }
+
+          &:nth-child(2)::before, &:nth-child(3)::before, &:nth-child(4)::before {
             content: '';
             background: rgba(180, 179, 179, .5);
             position: absolute; //to put it where I want
@@ -159,7 +164,6 @@
         display: flex;
         width: 80%;
         height: 100%;
-        // margin: 0 auto;
         margin: 1rem auto 0;
         justify-content: space-between;
 

@@ -29,8 +29,8 @@ const portfolioData = [
     name: "Back to the Future",
     languages: ["all", "javascript", "react", "sass"],
     languagesIcons: ["fab fa-js-square", "fab fa-react", "fab fa-sass"],
-    source: "https://github.com/Atalaa/Back-to-the-Future",
-    demo: "https://atalaa.github.io/Back-to-the-Future/",
+    source: "https://github.com/Atalaa/React-Back-to-the-Future",
+    demo: "https://atalaa.github.io/React-Back-to-the-Future/",
     picture: bttfsvg,
   },
   {
@@ -42,23 +42,23 @@ const portfolioData = [
     demo: "https://atalaa.github.io/Pig-Dice-Game/",
     picture: dice,
   },
-  {
-    id: 4,
-    name: "Shopify iOS App",
-    languages: ["all", "swift"],
-    languagesIcons: ["fab fa-swift"],
-    source: "https://github.com/Atalaa/Shopify-Challenge-Summer-2019",
-    picture: shopify,
-  },
-  {
-    id: 5,
-    name: "Emojionary",
-    languages: ["all", "javascript", "react", "css"],
-    languagesIcons: ["fab fa-js-square", "fab fa-react", "fab fa-css3-alt"],
-    source: "https://github.com/Atalaa/Emojionary",
-    demo: "https://atalaa.github.io/Emojionary/",
-    picture: emoji,
-  },
+  // {
+  //   id: 4,
+  //   name: "Shopify iOS App",
+  //   languages: ["all", "swift"],
+  //   languagesIcons: ["fab fa-swift"],
+  //   source: "https://github.com/Atalaa/Shopify-Challenge-Summer-2019",
+  //   picture: shopify,
+  // },
+  // {
+  //   id: 5,
+  //   name: "Emojionary",
+  //   languages: ["all", "javascript", "react", "css"],
+  //   languagesIcons: ["fab fa-js-square", "fab fa-react", "fab fa-css3-alt"],
+  //   source: "https://github.com/Atalaa/Emojionary",
+  //   demo: "https://atalaa.github.io/Emojionary/",
+  //   picture: emoji,
+  // },
 ];
 
 export default portfolioData;

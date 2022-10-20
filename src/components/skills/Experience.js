@@ -6,34 +6,34 @@ const Experience = () => {
       <h3>Experience</h3>
 
       <div className="exp-1">
-        <h4>Web Developer - Dream Payments</h4>
-        <h5>Sep 2020 - Present</h5>
+        <h4>Consultant Frontend Developer - Desjardins</h4>
+        <h5>Mar 2022 - Aug 2022</h5>
         <div className="experienceContent">
           <ul>
-            <li>Develop and test web services, micro services and web based applications for TD and Chase Bank.</li>
-            <li>Experience with AODA Web Accessibility using Javascript, JavaServer Faces and AWS.</li>
+            <li>Developed applications, programs/services, tools and perform the necessary tests and corrections for Insurance Habitation project.</li>
+            <li>Collaborate with the various stakeholders (designer, functional analyst) in the realization of technological solutions.</li>
           </ul>
         </div>
       </div>
 
       <div className="exp-2">
-        <h4>Frontend Developer - PenguinPickUp</h4>
-        <h5>Jun 2019 - Jul 2020</h5>
+        <h4>Consultant Frontend Developer - IBM</h4>
+        <h5>Apr 2021 - Mar 2022</h5>
         <div className="experienceContent">
           <ul>
-            <li>Developed and maintained 70% of Shopify E-commerce websites with JavaScript, Liquid.</li>
-            <li>Designed and styled 100% of webpages with HML5, CSS3, Sass.</li>
+            <li>Developed and created Angular components for new client’s website pages.</li>
+            <li>Created Reactive Forms in Angular for the registration page and refactoring codebase and redesign the layout with SASS.</li>
           </ul>
         </div>
       </div>
 
       <div className="exp-3">
-        <h4>Frontend Developer - FDM Group</h4>
-        <h5>Nov 2018 - May 2019</h5>
+        <h4>Frontend Developer - Dream Payments</h4>
+        <h5>Apr 2020 - Mar 2021</h5>
         <div className="experienceContent">
           <ul>
-            <li>Developed 25% of the front end for internal project using Bootstrap, jQuery, JavaScript in a team of 4 developers.</li>
-            <li>Revamped UI of exis`ng website for customer with 100,000+ visitors per month.</li>
+            <li>Developed and tested web based applications for TD and Chase Bank.</li>
+            <li>Built AODA and WCAG web pages using Javascript, JavaServer Faces and CSS.</li>
           </ul>
         </div>
       </div>        

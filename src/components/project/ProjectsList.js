@@ -10,7 +10,7 @@ const ProjectsList = () => {
     {id:2, value: "css"},
     {id:3, value: "react"},
     {id:4, value: "sass"},
-    {id:5, value: "swift"},
+    // {id:5, value: "swift"},
   ];
 
   const [radio] = useState(radios); //fixed state

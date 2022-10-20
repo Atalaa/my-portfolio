@@ -10,24 +10,7 @@ const Home = () => {
             <Navigation />   
             <div className="homeContent">
                 <div className="content">
-                    <h1>Aata Rchidi</h1>
-                    {/* <h2>
-                        <Typed 
-                            strings={["Frontend developer", "Web developer", "Video gamer"]}
-                            typeSpeed={68}
-                            backSpeed={10}
-                            backDelay={300}
-                            startDelay={100}
-                            loop
-                            smartBackspace
-                        />
-                    </h2> */}
-
-                    {/* <h3>
-                        Fluent in French and English, I'm a passionate web developer with 2 years + of experience building and maintaining websites. I have knowledge of vanilla Javascript, React, Sass.
-                    </h3> */}
-                            
-
+                    <h1>Aata Rchidi</h1>                             
                     <div className="infoHomePage">
                         <div className="resume">
                             <a href={resume} target="_blank" rel="noopener noreferrer">Resume</a>
@@ -44,7 +27,7 @@ const Home = () => {
                             />
                         </h2>
                         <h3>
-                            Fluent in French and English, I'm a passionate web developer with 2 years + of experience building and maintaining websites. I speak Javascript, React, Sass.
+                            Fluent in French and English, I'm a passionate web developer with 3 years of experience building and maintaining websites. I speak Javascript, React, Angular.
                         </h3>
                     </div>
                 </div>
