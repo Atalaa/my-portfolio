@@ -8,7 +8,7 @@ import Project from "./pages/Project";
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/skills" element={<Skill />} />

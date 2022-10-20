@@ -1,7 +1,5 @@
 import bttfsvg from "../media/bttf.svg";
 import dice from "../media/dice.svg";
-import shopify from "../media/shopify.svg";
-import emoji from "../media/emoji.svg";
 import movieApp from "../media/movieApp.svg";
 import checklists from "../media/checklists.svg";
 
