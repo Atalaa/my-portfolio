@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.ee988591.css",
+    "main.js": "/my-portfolio/static/js/main.242e016a.js",
+    "static/media/niag2.webm": "/my-portfolio/static/media/niag2.4eb6abaf53806d8c62e0.webm",
+    "static/media/niag2.mp4": "/my-portfolio/static/media/niag2.1e860a1c51842f40202e.mp4",
+    "static/media/ConUHackII.webp": "/my-portfolio/static/media/ConUHackII.9d01a0e02469481dcb6f.webp",
+    "static/media/Aata-allah_Rchidi_resume.pdf": "/my-portfolio/static/media/Aata-allah_Rchidi_resume.c2d4dcf6f65604a7fe4a.pdf",
+    "static/media/Aata.webp": "/my-portfolio/static/media/Aata.e1ca2fa717c6a3077f6d.webp",
+    "static/media/bttf.svg": "/my-portfolio/static/media/bttf.ed3208bb54f84ff9da66381c776583b0.svg",
+    "static/media/movieApp.svg": "/my-portfolio/static/media/movieApp.4f5fd7c038d7fbf91be769813569f924.svg",
+    "static/media/dice.svg": "/my-portfolio/static/media/dice.5ff6597b48ff279f492d2aea198b7a18.svg",
+    "static/media/checklists.svg": "/my-portfolio/static/media/checklists.73e3ca6c426befcd2a6d36578610bf1d.svg",
+    "index.html": "/my-portfolio/index.html",
+    "static/media/shape.svg": "/my-portfolio/static/media/shape.1c84b1f61262e8d2f128.svg",
+    "main.ee988591.css.map": "/my-portfolio/static/css/main.ee988591.css.map",
+    "main.242e016a.js.map": "/my-portfolio/static/js/main.242e016a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee988591.css",
+    "static/js/main.242e016a.js"
+  ]
+}
