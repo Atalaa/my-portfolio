@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.bf7c2e3e.css",
-    "main.js": "/my-portfolio/static/js/main.47d77ab8.js",
+    "main.js": "/my-portfolio/static/js/main.de4df4dc.js",
     "static/media/niag2.webm": "/my-portfolio/static/media/niag2.4eb6abaf53806d8c62e0.webm",
     "static/media/niag2.mp4": "/my-portfolio/static/media/niag2.1e860a1c51842f40202e.mp4",
+    "static/media/rock-paper-scissors.svg": "/my-portfolio/static/media/rock-paper-scissors.7fdd588eabe450801d6aad769d4997b0.svg",
     "static/media/ConUHackII.webp": "/my-portfolio/static/media/ConUHackII.9d01a0e02469481dcb6f.webp",
     "static/media/Aata-allah_Rchidi_resume.pdf": "/my-portfolio/static/media/Aata-allah_Rchidi_resume.82c6913225ebae63fd05.pdf",
     "static/media/Aata.webp": "/my-portfolio/static/media/Aata.e1ca2fa717c6a3077f6d.webp",
@@ -14,10 +15,10 @@
     "index.html": "/my-portfolio/index.html",
     "static/media/shape.svg": "/my-portfolio/static/media/shape.1c84b1f61262e8d2f128.svg",
     "main.bf7c2e3e.css.map": "/my-portfolio/static/css/main.bf7c2e3e.css.map",
-    "main.47d77ab8.js.map": "/my-portfolio/static/js/main.47d77ab8.js.map"
+    "main.de4df4dc.js.map": "/my-portfolio/static/js/main.de4df4dc.js.map"
   },
   "entrypoints": [
     "static/css/main.bf7c2e3e.css",
-    "static/js/main.47d77ab8.js"
+    "static/js/main.de4df4dc.js"
   ]
 }
