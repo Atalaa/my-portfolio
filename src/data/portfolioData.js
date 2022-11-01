@@ -2,10 +2,21 @@ import bttfsvg from "../media/bttf.svg";
 import dice from "../media/dice.svg";
 import movieApp from "../media/movieApp.svg";
 import checklists from "../media/checklists.svg";
+import rockPaperScissors from "../media/rock-paper-scissors.svg";
+
 
 const portfolioData = [
   {
     id: 0,
+    name: "Rock Paper Scissors",
+    languages: ["all", "javascript", "react", "css"],
+    languagesIcons: ["fab fa-js-square", "fab fa-react", "fab fa-css3-alt"],
+    source: "https://github.com/Atalaa/React-rock-paper-scissors",
+    demo: "https://rock-paper-scissors-atalaa.vercel.app/",
+    picture: rockPaperScissors,
+  },
+  {
+    id: 1,
     name: "Movie App",
     languages: ["all", "javascript", "react", "css"],
     languagesIcons: ["fab fa-js-square", "fab fa-react", "fab fa-css3-alt"],
@@ -14,7 +25,7 @@ const portfolioData = [
     picture: movieApp,
   },
   {
-    id: 1,
+    id: 2,
     name: "To-do list",
     languages: ["all", "javascript", "react", "sass"],
     languagesIcons: ["fab fa-js-square", "fab fa-react", "fab fa-sass"],
@@ -23,7 +34,7 @@ const portfolioData = [
     picture: checklists,
   },
   {
-    id: 2,
+    id: 3,
     name: "Back to the Future",
     languages: ["all", "javascript", "react", "sass"],
     languagesIcons: ["fab fa-js-square", "fab fa-react", "fab fa-sass"],
@@ -32,7 +43,7 @@ const portfolioData = [
     picture: bttfsvg,
   },
   {
-    id: 3,
+    id: 4,
     name: "Pig Dice Game",
     languages: ["all", "javascript", "css"],
     languagesIcons: ["fab fa-js-square", "fab fa-css3-alt"],
