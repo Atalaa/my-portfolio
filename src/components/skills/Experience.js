@@ -7,7 +7,7 @@ const Experience = () => {
 
       <div className="exp-1">
         <h4>Consultant Frontend Developer - Desjardins</h4>
-        <h5>Mar 2022 - Aug 2022</h5>
+        <h5>Mar 2022 - Dec 2022</h5>
         <div className="experienceContent">
           <ul>
             <li>Developed applications, programs/services, tools and perform the necessary tests and corrections for Insurance Habitation project.</li>

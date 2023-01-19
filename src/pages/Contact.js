@@ -71,12 +71,6 @@ const Contact = () => {
                                 <i className="fab fa-twitter"></i>
                             </a>
                         </li>
-                        <li>
-                            <a href="https://medium.com/@Atalaa" target="_blank" rel="noopener noreferrer">
-                                <h4>Medium</h4>
-                                <i className="fab fa-medium"></i>
-                            </a>
-                        </li>
                     </ul>
                 </div>
             </div>

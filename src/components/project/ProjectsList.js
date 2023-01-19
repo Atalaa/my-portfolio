@@ -7,10 +7,10 @@ const ProjectsList = () => {
   let radios = [
     {id:0, value: "all"},
     {id:1, value: "javascript"},
-    {id:2, value: "css"},
-    {id:3, value: "react"},
-    {id:4, value: "sass"},
-    // {id:5, value: "swift"},
+    {id:2, value: "react"},
+    {id:3, value: "firebase"},
+    {id:4, value: "html5/css"},
+    {id:5, value: "sass"},
   ];
 
   const [radio] = useState(radios); //fixed state

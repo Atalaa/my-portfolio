@@ -17,7 +17,7 @@ const Home = () => {
                         </div>
                         <h2>
                             <Typed 
-                                strings={["Frontend developer", "Web developer", "Also a Video gamer !"]}
+                                strings={["Front-end developer", "Web developer", "Interest in Back-end!"]}
                                 typeSpeed={68}
                                 backSpeed={10}
                                 backDelay={300}
@@ -27,7 +27,7 @@ const Home = () => {
                             />
                         </h2>
                         <h3>
-                            Fluent in French and English, I'm a passionate web developer with 3 years of experience building and maintaining websites. I speak Javascript, React, Angular.
+                            Fluent in French and English, I'm a passionate web developer with 3 years of experience building and maintaining websites. I know Javascript, React, Angular.
                         </h3>
                     </div>
                 </div>
