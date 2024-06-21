@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.bf7c2e3e.css",
-    "main.js": "/my-portfolio/static/js/main.39c20fef.js",
+    "main.js": "/my-portfolio/static/js/main.a42acca2.js",
     "static/media/niag2.webm": "/my-portfolio/static/media/niag2.4eb6abaf53806d8c62e0.webm",
     "static/media/niag2.mp4": "/my-portfolio/static/media/niag2.1e860a1c51842f40202e.mp4",
-    "static/media/Aata-allah_Rchidi_resume.pdf": "/my-portfolio/static/media/Aata-allah_Rchidi_resume.2627d98834dfe7c18f58.pdf",
+    "static/media/Aata_Rchidi_RESUME.pdf": "/my-portfolio/static/media/Aata_Rchidi_RESUME.9074b9bce7dca927f3ab.pdf",
     "static/media/ConUHackII.webp": "/my-portfolio/static/media/ConUHackII.9d01a0e02469481dcb6f.webp",
     "static/media/rock-paper-scissors.png": "/my-portfolio/static/media/rock-paper-scissors.4086f8fe70ef263548b1.png",
     "static/media/auth-firebase.png": "/my-portfolio/static/media/auth-firebase.8b1544c8697a6efdab18.png",
@@ -16,10 +16,10 @@
     "index.html": "/my-portfolio/index.html",
     "static/media/shape.svg": "/my-portfolio/static/media/shape.1c84b1f61262e8d2f128.svg",
     "main.bf7c2e3e.css.map": "/my-portfolio/static/css/main.bf7c2e3e.css.map",
-    "main.39c20fef.js.map": "/my-portfolio/static/js/main.39c20fef.js.map"
+    "main.a42acca2.js.map": "/my-portfolio/static/js/main.a42acca2.js.map"
   },
   "entrypoints": [
     "static/css/main.bf7c2e3e.css",
-    "static/js/main.39c20fef.js"
+    "static/js/main.a42acca2.js"
   ]
 }
